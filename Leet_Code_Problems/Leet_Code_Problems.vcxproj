@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1_two_Sum.cpp" />
+    <ClCompile Include="26_Remove_duplicates_from_sorted_array.cpp" />
     <ClCompile Include="2_Add_Two_Numbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
